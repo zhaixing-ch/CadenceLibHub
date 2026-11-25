@@ -1,0 +1,5 @@
+customtkinter>=6.0
+ttkbootstrap>=2.2
+olefile>=0.47
+CairoSVG>=2.7
+Pillow>=10

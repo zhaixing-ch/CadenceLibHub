@@ -1,0 +1,6 @@
+config.json
+__pycache__/
+.preview_cache/
+.learnings/
+bin/npnp.exe
+*.py[cod]
