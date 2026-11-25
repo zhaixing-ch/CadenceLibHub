@@ -40,7 +40,7 @@ Run commands from this folder:
 .\lib.cmd list
 ```
 
-LCSC export requires `npnp.exe` at `bin/npnp.exe`, or a custom path set in `config.json`. The binary is not included in this repository. It is distributed under the Non-Commercial Share-Alike License 1.0. See `bin/npnp_LICENSE.txt` and the original project at https://github.com/ref42/npnp. Obtain it from its original project and observe its license terms.
+LCSC export requires `npnp.exe` at `bin/npnp.exe`, or a custom path set in `config.json`. The binary is not included in this repository. It is distributed under the Non-Commercial Share-Alike License 1.0. See `npnp_LICENSE.txt` and the original project at https://github.com/ref42/npnp. Obtain it from its original project and observe its license terms.
 
 SamacSys search requires a browser login and the Library Loader application. Capture XML import and Allegro `.il` execution remain manual, version-sensitive steps.
 
